@@ -1,0 +1,2 @@
+Encrypt a textual file by writing a function that will take an input a shift key, this will shift all the text characters 
+by that key, decrypt function will do the reverse and restore the text.
